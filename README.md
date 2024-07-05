@@ -4,6 +4,7 @@ This is a streamlit app to chat with documents or codebases on your local machin
 ## Install
 - create a conda env
   - conda create -n chatwithdocs python=3.10
+  - activate env: conda activate chatwithdocs
 - install [ollama](https://github.com/ollama/ollama)
 - install required packages
   - pip install -r req.txt
